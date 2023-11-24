@@ -10,10 +10,7 @@ Recent Changes:
 * add more codeplugs
 
 Attention: all Anytone codeplugs provided in this repository is using Mode 0000. You have to change the trx to this mode BEFORE you upload the code plug. 
+
 Credits: the configuration provided in the codeplugs (Relais lists,...) for the Anytone D878UVII is somewhat based on the codeplug of Michi OE8VIK. Lets make a shout out to the creator!
 
-<<<<<<< HEAD
 PLEASE NOTE: If you use any of the provided code plugs on your radio, please change CALLSIGN, DIGIID and the APRS message configuration to use your CALLSIGN before using! Thank you / 73 de Michael OE8MYL
-=======
-PLEASE NOTE: If you use any of the provided code plugs on your radio, please change CALLSIGN, DIGIID and the APRS message configuration to use your CALLSIGN before using! Thank you / 73 de Michael OE8YML
->>>>>>> 763c39460054efea8bee1e2fa222b670b82c2bb6
